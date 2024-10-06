@@ -25,6 +25,8 @@ total_words = len(tokenizer.word_index)+1   #plus one for counting the space the
 #from lists and mapped words to sequence of lists
 tokened = tokenizer.text_to_sequence([text_list]{})
 
+#Sequencing
+
 input_seq = [] #vessel
 
 for line in text_list: #each 'line' in the list to split by single sentence to make it easier to feed
