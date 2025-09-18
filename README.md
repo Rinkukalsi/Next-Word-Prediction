@@ -19,7 +19,7 @@ Installation
 First, install TensorFlow (if you haven't already):
 pip install tensorflow
 Then clone this repository and install the dependencies:
-git clone https://github.com/your-username/next-word-prediction.git cd next-word-prediction pip install -r requirements.txt
+git clone, cd next-word-prediction pip install -r requirements.txt
 
 Usage
 
